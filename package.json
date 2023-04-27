@@ -1,6 +1,6 @@
 {
   "name": "todovue-theme-button",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": false,
   "main": "dist/tvthemebutton.common.js",
   "author": "Cristhian Daza",
