@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TvThemeButton renders correctly 1`] = `
+<div class="tv-theme-button">
+  <div class="tv-theme-switch tv-cursor-pointer tv-theme-active"><span><i class="tv-theme-icon tv-icon-dark"></i></span><span><i class="tv-theme-icon tv-icon-light"></i></span></div>
+</div>
+`;
